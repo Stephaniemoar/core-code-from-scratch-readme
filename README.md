@@ -83,7 +83,7 @@
 </ol>
 ---
 
-# WEEK 2
+# WEEK No.2
 
 ## Logic problem
 <br>
@@ -139,3 +139,42 @@ After an evaluation of each of the possibilities, since it can only be true if t
 ## Identify odd and even numbers
 
 ![Identify_odd_even_number](https://user-images.githubusercontent.com/119355356/232347005-bcb50e0c-6c26-43f7-a598-7f8375c3627e.PNG)
+
+# WEEK No.3
+
+## Simple Calculator
+
+![Calculadora simple](https://user-images.githubusercontent.com/119355356/233883118-8b78ed16-4ec7-458c-a375-4a7b2813c2d3.PNG)
+
+## Special Number
+
+![Numero_Especial](https://user-images.githubusercontent.com/119355356/233883918-ec4ce6ab-ea96-439d-87e1-0dca114a69ff.PNG)
+
+## Simple Calculadora con Switch
+
+![Simple_calculadora_switch](https://user-images.githubusercontent.com/119355356/233884334-a21aa149-8251-4f8e-bbe0-b9dae0a2ad9f.PNG)
+
+## Programa Multi-Opción
+
+![Multi_opcion1](https://user-images.githubusercontent.com/119355356/233884984-94389831-94c6-4f32-813f-827038e400a0.PNG)
+![Multi_opcion2](https://user-images.githubusercontent.com/119355356/233884987-d13fa11d-a4de-4b3d-9328-6b31e6960f72.PNG)
+
+## Tablas de multiplicar
+
+![Tabla_de_multiplicar](https://user-images.githubusercontent.com/119355356/233885409-0bf28188-c0bd-4ad5-86a6-e5392fadfd67.PNG)
+
+## Simple Calculator con Do While
+
+![Simple_calculadora_do_while](https://user-images.githubusercontent.com/119355356/233885958-f823d8ce-f479-456e-b2d5-3101e32e767d.PNG)
+
+## Tabla de multiplicar con FOR
+
+![Tabla_de_multiplicar_For](https://user-images.githubusercontent.com/119355356/233886140-cd1a5353-f653-4abf-ada4-024e12cceda6.PNG)
+
+## Ascending and Descending Numbers
+
+![Numero_ascendente](https://user-images.githubusercontent.com/119355356/233886530-4c054045-cdb4-4e5d-9091-dd52010b0343.PNG)
+
+## Saludos!
+
+![Saludos](https://user-images.githubusercontent.com/119355356/233887072-292012e3-49ad-460f-9339-63a6a9784cc2.PNG)
