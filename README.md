@@ -178,3 +178,67 @@ After an evaluation of each of the possibilities, since it can only be true if t
 ## Saludos!
 
 ![Saludos](https://user-images.githubusercontent.com/119355356/233887072-292012e3-49ad-460f-9339-63a6a9784cc2.PNG)
+
+---
+# WEEK No.4
+
+---
+
+# WEEK No. 5
+
+## If
+![Screenshot 2023-05-13 at 11 54 16](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/ceb026d3-3340-4bba-b984-d82f0ddcc038)
+
+## WHILE
+![Screenshot 2023-05-13 at 11 57 24](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/f61f3298-ea57-4bd4-957e-f3edb7391ce2)
+
+## For
+![Screenshot 2023-05-13 at 12 00 36](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/51ecc040-b585-458b-9403-ff34c9c85095)
+
+---
+# WEEK No. 6
+
+## Variables
+![Screenshot 2023-05-13 at 12 03 27](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/f7a29a94-d976-414b-bd00-9b03538aedbd)
+
+## What is x?
+'Geeta'
+
+## Several variables?
+![Screenshot 2023-05-13 at 12 07 50](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/a64db260-379c-4811-abdb-186e97a46d1d)
+
+## Reassignment
+"Toe"
+
+## Assign variables
+"Hardy"
+
+## Functions
+![Screenshot 2023-05-13 at 12 14 56](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/fdc9a1e3-5781-4aba-a292-46f7e5811043)
+
+## Multiple functions
+![Screenshot 2023-05-13 at 12 16 40](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/0f0b0386-8d21-423d-91cb-37115c861997)
+
+## Function calls
+![Screenshot 2023-05-13 at 12 17 50](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/1d6e0a88-6c2a-4857-b62e-f4f9178298a6)
+
+## What is x? (function version)
+"How do you do?"
+
+## Parameters
+![Screenshot 2023-05-13 at 12 19 27](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/a77f2110-4f59-4d98-8bf3-9f05896572ab)
+
+## Strings
+![Screenshot 2023-05-13 at 12 20 52](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/98e0948d-a5bf-44d1-b219-855d21cfa87e)
+
+## String: length
+![Screenshot 2023-05-13 at 12 23 07](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/4b3c7882-94e5-4f51-b0ba-5d4c2b57f127)
+
+## String: toUpperCase()
+![Screenshot 2023-05-13 at 12 24 21](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/22aaf322-d260-45c4-a34d-013b51d8bd9c)
+
+## String: charAt()
+![Screenshot 2023-05-13 at 12 25 11](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/82cae080-4c52-4ab4-8c96-46b5c0b4298e)
+
+## String: indexOf()
+![Screenshot 2023-05-13 at 12 25 50](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/7ec0d6fc-f7ad-494e-b570-5c3f49c000e0)
