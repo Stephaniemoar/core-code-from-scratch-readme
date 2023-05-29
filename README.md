@@ -242,3 +242,93 @@ After an evaluation of each of the possibilities, since it can only be true if t
 
 ## String: indexOf()
 ![Screenshot 2023-05-13 at 12 25 50](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/7ec0d6fc-f7ad-494e-b570-5c3f49c000e0)
+
+---
+# WEEK No. 7
+
+## String: substr()
+<img width="435" alt="Screenshot 2023-05-28 at 17 03 03" src="https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/90949824-a8f6-4d71-8e68-75f04e2a06e2">
+
+## String: replace()
+<img width="454" alt="Screenshot 2023-05-28 at 17 06 20" src="https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/baba4639-829e-4af1-ace1-13ce647f5361">
+
+## Increment
+<img width="523" alt="Screenshot 2023-05-28 at 17 08 01" src="https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/50f94894-3e35-4701-8d45-a7e166c40723">
+
+## Fahrenheit
+<img width="511" alt="Screenshot 2023-05-28 at 17 09 29" src="https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/8c2c2fd0-a96c-46da-a64f-958e1868baee">
+
+## Boolean
+<img width="525" alt="Screenshot 2023-05-28 at 17 11 56" src="https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/0c48755a-9d1b-40b5-bfad-454cd708a7e1">
+
+## Objects
+![Screenshot 2023-05-28 at 17 19 56](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/ad5502a8-0917-4bd9-b558-099f965a3af1)
+
+## Return to sanity
+![Screenshot 2023-05-28 at 17 21 53](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/d49764fe-511e-4701-ab7f-957d0c41a37d)
+
+## Object syntax debug
+![Screenshot 2023-05-28 at 17 25 53](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/69dea940-3a06-432b-a207-e986423478d4)
+
+## Count strings in objects
+![Screenshot 2023-05-28 at 17 27 37](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/4911a03a-bf05-49b5-9af0-38d77011b041)
+
+## Extending JavaScript Objects: Get First & Last Array Element
+![Screenshot 2023-05-28 at 17 29 57](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/6bbd8654-d56a-46e3-a147-cd42bb8de563)
+
+## Object Oriented Piracy
+![Screenshot 2023-05-28 at 17 31 19](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/f8f8f87b-214e-4fe0-9fcd-936411071b48)
+
+## Convert a String to a Number!
+![Screenshot 2023-05-28 at 17 32 29](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/3410f10c-48e4-4f6f-b511-5dac20193ec2)
+
+## Convert number to reversed array of digits
+![Screenshot 2023-05-28 at 17 34 04](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/75580f15-93fd-482f-99a5-09f65a575747)
+
+## Truthy and Falsy
+![Screenshot 2023-05-28 at 17 35 28](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/af7f868d-2617-4197-8560-9ea49e7390f0)
+
+## Training JS #4: Basic data types--Array
+![Screenshot 2023-05-28 at 17 39 33](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/c4a7a829-3af1-44eb-8c25-af15671d21e7)
+
+---
+# WEEK No. 8
+
+## Training JS #7: if..else and ternary operator
+![Screenshot 2023-05-28 at 17 42 37](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/ba19bef2-814f-4e22-be64-fe0f70f2f658)
+
+## Training JS #8: conditional statement--switch
+![Screenshot 2023-05-28 at 17 43 44](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/ad3cbcac-b49b-47d3-8cb4-faa945ad4eea)
+
+## Basic calculator
+![Screenshot 2023-05-28 at 17 45 33](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/9550289f-5256-40ad-a95e-e14d4ef306be)
+
+## Even or odd
+![Screenshot 2023-05-28 at 17 47 11](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/d099c580-6908-48a7-a105-7a26970332fe)
+
+## A wolf in sheep's clothing
+![Screenshot 2023-05-28 at 17 49 08](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/4889973b-8cf6-4f25-b119-cb273df11355)
+
+## Decode the morse code
+![Screenshot 2023-05-28 at 17 52 12](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/9228ee8d-ed40-4fe5-9975-2561b42381e6)
+
+## Who likes it?
+![Screenshot 2023-05-28 at 17 53 14](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/3d61d683-0ede-45b5-95b5-14b9a9dfdd4b)
+
+## Bit counting
+![Screenshot 2023-05-28 at 17 54 41](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/e5fca8e5-0fa4-4e3c-bf61-d6e82e4c3cd9)
+
+## Your order, please
+![Screenshot 2023-05-28 at 17 55 32](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/bba8e834-a312-42a4-a8b6-ede95599fe62)
+
+## Counting duplicates
+![Screenshot 2023-05-28 at 17 56 58](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/0bee3f4a-35e3-4cfe-a228-7848584db4e3)
+
+## Encrypt this!
+![Screenshot 2023-05-28 at 17 59 43](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/cd5421e8-a989-499f-b6df-271335708a9a)
+
+## Valid parentheses
+![Screenshot 2023-05-28 at 18 01 26](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/e8d6319a-8e78-4d21-969b-8efdf28fa123)
+
+## Convert string to camel case
+![Screenshot 2023-05-28 at 18 03 06](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/3c3e42ee-2bee-460b-bcd7-debe33b15881)
