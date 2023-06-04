@@ -332,3 +332,39 @@ After an evaluation of each of the possibilities, since it can only be true if t
 
 ## Convert string to camel case
 ![Screenshot 2023-05-28 at 18 03 06](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/3c3e42ee-2bee-460b-bcd7-debe33b15881)
+
+---
+# WEEK No. 9
+
+## "this" is a problem
+![Screenshot 2023-06-04 at 16 02 34](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/7eb26484-9636-49ad-b389-2700f3bd0195)
+
+## "Thinkful - List and Loop Drills: Lists of lists"
+![Screenshot 2023-06-04 at 16 06 10](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/b1b66d33-6048-47ee-8677-4414b2cc7335)
+
+## Stop gninnipS My sdroW!
+![Screenshot 2023-06-04 at 16 07 10](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/6e931c20-8f5c-4eda-91b2-da171fe13858)
+
+## "this" is an other problem
+![Screenshot 2023-06-04 at 16 08 30](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/d20b0779-d0a6-49ff-b124-479c8e507a89)
+
+## "Who likes it?"
+![Screenshot 2023-06-04 at 16 12 22](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/d37e5ada-a896-48d3-8f70-02232bf052eb)
+
+## Convert string to camel case
+![Screenshot 2023-05-28 at 18 03 06](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/3c3e42ee-2bee-460b-bcd7-debe33b15881)
+
+## Easy mathematical callback
+![Screenshot 2023-06-04 at 16 14 00](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/75f757fd-e16a-4bfd-93f2-05d4a5d49fb1)
+
+## Moving Zeros To The End
+![Screenshot 2023-06-04 at 16 15 21](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/1f738314-d8c8-4b73-a02f-0c8d1b45b7f4)
+
+## Valid Parentheses
+![Screenshot 2023-06-04 at 16 16 26](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/30f2fcc6-44c1-4995-9e5b-3a742dfaa8b0)
+
+## The Hashtag Generator
+![Screenshot 2023-06-04 at 16 17 42](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/03e727a4-54f9-4095-b6b2-29b48b9fca3f)
+
+## String incrementer
+![Screenshot 2023-06-04 at 16 19 00](https://github.com/Stephaniemoar/core-code-from-scratch-readme/assets/119355356/933e710b-1ace-4b9f-8f35-1237e2a338f6)
